@@ -1,6 +1,6 @@
 """
 System Resource Monitor for Windows 11
-Author: Carl
+Author: Thisecur
 License: MIT
 Description: Always-on-top movable widget showing CPU, RAM, GPU, temperatures
 """
@@ -531,4 +531,5 @@ def main():
     app.run()
 
 if __name__ == "__main__":
+
     main()
