@@ -120,10 +120,10 @@ system-monitor/
 
 The project requires these Python packages (automatically installed via requirements.txt):
 
-- `psutil==5.9.0` - System monitoring (CPU, RAM, disks)
-- `pywin32==306` - Windows API integration
-- `wmi==1.5.1` - Windows Management Instrumentation
-- `pyadl==1.2.1` - AMD GPU monitoring (optional, fallback)  
+- `psutil>=5.9.0` - System monitoring (CPU, RAM, disks)
+- `pywin32>=306` - Windows API integration
+- `wmi>=1.5.1` - Windows Management Instrumentation
+- `pyadl>=0.1` - AMD GPU monitoring (optional, fallback)    
 
 ## Contributing
 
