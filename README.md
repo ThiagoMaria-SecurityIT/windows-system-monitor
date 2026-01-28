@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/status-stable-brightgreen)
 ![AMD GPU](https://img.shields.io/badge/GPU-AMD%20Radeon%20-red)  
 
-A lightweight, always-on-top system monitoring widget for Windows 11. Monitor CPU, RAM, GPU, temperatures, and disk activity in real-time while running virtual machines, local AI or any intensive tasks.  
+A lightweight, always-on-top system monitoring widget for Windows 11. Monitor CPU, RAM, GPU, temperatures, and disk activity in real-time while running virtual machines, local AI, games or any intensive tasks.  
 
 ![](screenshot.png)  
 
