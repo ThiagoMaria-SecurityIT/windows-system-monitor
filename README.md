@@ -27,7 +27,7 @@ A lightweight, always-on-top system monitoring widget for Windows 11. Monitor CP
 1. **Download the repository** by clicking the "Code" button and selecting "Download ZIP", or clone it using Git:
 ```bash
 git clone https://github.com/ThiagoMaria-SecurityIT/windows-system-monitor.git
-cd system-monitor
+cd windows-system-monitor
 ```
 
 2. **Set up a virtual environment (recommended)**:
